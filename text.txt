@@ -1,0 +1,20 @@
+This is the complete implementation of the 
+"Data Structures and Algorithms in Python" book
+
+These are the list of chapters:
+Chapter 1: Introduction to Python
+Chapter 2: Object-Oriented Programming
+Chapter 3: Introduction to Data Structures and Algorithms
+Chapter 4: Recursion
+Chapter 5: Array-Based Sequences
+Chapter 6: Stacks
+Chapter 7: Queues
+Chapter 8: Linked Lists
+Chapter 9: Trees
+Chapter 10: Priority Queues
+Chapter 11: Maps, Hash Maps, and Sets 
+Chapter 12: Search Trees
+Chapter 13: Sorting Algorithms
+Chapter 14: Graph Algorithms
+Chapter 15: Text Processing
+Chapter 16: Memory Management and B-Trees
